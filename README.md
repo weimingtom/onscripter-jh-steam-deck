@@ -20,5 +20,5 @@ https://www.vnwiki.xyz/linux/cdemu.html
 ## Problems
 * No sound  
 Check desktop mode right bottom sound setting, there are two tab pages, check both, because steamos can mute single program  
-* Run in Game Mode
+* Run in Game Mode  
 Add to steam in Desktop Mode, and then switch to Game Mode and run it  
