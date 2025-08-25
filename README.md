@@ -13,6 +13,7 @@ https://www.vnwiki.xyz/linux/cdemu.html
 * (Optional, to update software sources local database) $ sudo pacman -Sy
 * $ sudo pacman -S vim
 * $ sudo pacman -S gcc glibc linux-api-headers
+* (Optional ?) $ sudo pacman -S make
 * $ sudo pacman -S bzip2 sdl2 sdl2_image sdl2_ttf sdl2_mixer fontconfig libjpeg-turbo
 * $ make clean
 * $ make -j8
