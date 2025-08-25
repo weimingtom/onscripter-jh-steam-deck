@@ -10,6 +10,7 @@ https://www.vnwiki.xyz/linux/cdemu.html
 * $ sudo steamos-readonly disable
 * $ sudo pacman-key --init
 * $ sudo pacman-key --populate
+* (Optional, to update software sources local database) $ sudo pacman -Sy
 * $ sudo pacman -S vim
 * $ sudo pacman -S gcc glibc linux-api-headers
 * $ sudo pacman -S bzip2 sdl2 sdl2_image sdl2_ttf sdl2_mixer fontconfig libjpeg-turbo
